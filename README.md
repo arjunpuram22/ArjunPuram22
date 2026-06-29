@@ -1,4 +1,4 @@
-## Hi 👋 I'm Arjun Puram
+## Hi 👋 I'm Arjun
 
 # 💫 About Me:
 DevOps & Site Reliability Engineer with hands-on experience in AWS, Kubernetes, Terraform, and CI/CD automation. I specialize in building scalable multi-cloud architectures, secure deployment pipelines, and production-ready cloud-native systems.
