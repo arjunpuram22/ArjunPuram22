@@ -1,8 +1,5 @@
 ## Hi 👋 I'm Arjun
 
-# 💫 About Me:
-DevOps & Cloud Infrastructure Engineer with hands-on experience in AWS, Kubernetes, Terraform, and CI/CD automation. I specialize in building scalable multi-cloud architectures, secure deployment pipelines, and production-ready cloud-native systems.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/arjunpuram) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arjunpuram06@gmail.com) 
